@@ -1,0 +1,35 @@
+:root {
+    // * COLORS * // 
+    // BRAND COLORS
+    --azure-radiance: #0075F2;
+    --bright-gray: #34354b;
+
+    // APP COLORS
+    --ebony: #17181f;
+    --maastricht-blue: #1c1d25;
+    --down-river: #14151e;
+    --madison: #0b3460;
+
+    // TEXT COLORS
+    --lavender-blush: #ffeaee;
+    --silver: #b9bbbe;
+    --cerulean: #00aff4;
+
+    // STATUS COLORS
+    --error-danger: #e54b4b;
+
+
+    // * SPACING * //
+    --base-padding: 20px;
+    --base-margin: 20px;
+
+    // * OTHER * //
+    --border-radius: 5px;
+    --box-shadow:
+        0px 0px 0.4px rgba(0, 0, 0, 0.051),
+        0px 0px 1px rgba(0, 0, 0, 0.073),
+        0px 0px 1.9px rgba(0, 0, 0, 0.09),
+        0px 0px 3.4px rgba(0, 0, 0, 0.107),
+        0px 0px 6.3px rgba(0, 0, 0, 0.129),
+        0px 0px 15px rgba(0, 0, 0, 0.18);
+}
